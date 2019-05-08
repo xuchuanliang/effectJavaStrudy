@@ -11,5 +11,6 @@
 - 优先考虑泛型方法
 
 - 利用有限制通配符来提升API的灵活性
+> 助记符：PECS表示producer-extends，consumer-super：如果参数化类型表示一个T生产者，就是用<? extend T>；如果它表示一个消费者，就是用<? super T>
 
 - 有限考虑类型安全的异构容器
