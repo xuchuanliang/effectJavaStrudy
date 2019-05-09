@@ -1,4 +1,4 @@
-package capter06.com.snail;
+package capter06.com.snail.b1;
 
 /**
  * 除了基础运算，这是扩展运算

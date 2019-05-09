@@ -1,4 +1,4 @@
-package capter06.com.snail;
+package capter06.com.snail.b1;
 
 public class Test {
     public static void main(String[] args){

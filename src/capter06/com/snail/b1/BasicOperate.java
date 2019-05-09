@@ -1,4 +1,4 @@
-package capter06.com.snail;
+package capter06.com.snail.b1;
 
 /**
  * 实现操作接口的枚举类，每个枚举实现自己的计算方式
